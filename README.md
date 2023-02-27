@@ -1,7 +1,9 @@
-# Redacting PII from Audio.....quietly
+# Redacting PII from Audio.....silently
 
+The code is setup to generate a silently redacted audio file for the following [Youtube Video](https://www.youtube.com/watch?v=xSVQvo63mgU)
 
- -Demo file
+The redaction policy used was: Locations & Languages.
+
 #### Step 1: Set up Python Enviroment
 ```code
 python3 -m venv venv
