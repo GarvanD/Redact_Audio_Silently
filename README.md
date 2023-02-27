@@ -39,6 +39,6 @@ Silently redacted audio
 
 - To try this on your own data, uncomment lines 121 - 138 in silence_PII.py
 
-- Change the ```mp3_file``` variable on line 115 of silence_PII.py to refer to the path location of the file you would like to process.
+- Change the ```mp3_file``` variable on line 114 of silence_PII.py to refer to the path location of the file you would like to process.
 
 - This will take much longer as the transcript needs to be processed by the API
